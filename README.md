@@ -19,7 +19,7 @@ I'm a **Machine Learning Architect** who loves to design, develop, and deploy ma
 
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
-<a href="https://github.com/upul/">
+<a href="https://github.com/coreKearn/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.twitter.com/upulba/">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
